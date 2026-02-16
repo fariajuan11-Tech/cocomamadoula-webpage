@@ -4,7 +4,7 @@
   "scripts": {
   "start": "ng serve",
   "build": "ng build",
-  "build:cf": "ng build && cp _redirects dist/cocomamadoula-webpage/_redirects"
+  "build:cf": "ng build && cp _redirects dist/cocomamadoula-webpage/browser/_redirects"
 },
   "prettier": {
     "printWidth": 100,
